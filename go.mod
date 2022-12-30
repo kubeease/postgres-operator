@@ -3,7 +3,7 @@ module github.com/zalando/postgres-operator
 go 1.14
 
 require (
-	github.com/aws/aws-sdk-go v1.32.2
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/lib/pq v1.7.0
 	github.com/motomux/pretty v0.0.0-20161209205251-b2aad2c9a95d
 	github.com/r3labs/diff v1.1.0
